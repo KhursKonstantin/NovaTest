@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@android:drawable/ic_menu_slideshow"
+            android:title="Home" />
+
+
+    </group>
+
+
+    <item android:title="Rating">
+        <menu>
+            <item
+                android:id="@+id/nav_g"
+                android:title="G - General audiences" />
+            <item
+                android:id="@+id/nav_pg"
+                android:title="PG - Parental guidance suggested" />
+            <item
+                android:id="@+id/nav_pgiz"
+                android:title="PG-13 - Parents strongly cautioned" />
+
+            <item
+                android:id="@+id/nav_r"
+                android:title="R - Restricted" />
+        </menu>
+    </item>
+</menu>

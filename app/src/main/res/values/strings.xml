@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NovaTest</string>
+    <string name="open_drawer">open</string>
+    <string name="close_drawer">close</string>
+    <string name="tr_gifs">Trending GIFs</string>
+    <string name="error">Error</string>
+
+    <string name="title_activity_animated">AnimatedActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="no_result">There is no results for this query</string>
+</resources>
